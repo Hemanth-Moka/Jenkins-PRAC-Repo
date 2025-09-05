@@ -34,7 +34,7 @@ pipeline {
                 }
             }
         }
-z
+
         // ===== BACKEND DEPLOY =====
         stage('Deploy Backend to Tomcat') {
             steps {
